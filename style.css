@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(darkred,red,darkorange,orange,yellow,lightyellow);
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    border-radius: 50px;
+}
+#start{
+    background-color: aquamarine;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    font-weight: bolder;
+    font-size: larger;
+}
